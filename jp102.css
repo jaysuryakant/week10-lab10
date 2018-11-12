@@ -1,0 +1,24 @@
+div{
+    width:100%;
+    height: 300px;
+}
+.img {
+    background-image:url("p.jpg")
+
+ }
+ .position{
+    
+    background-image:url("j.jpg");
+    position: absolute;
+    left: 0px;
+    top:600px;
+
+    
+}
+.jp{
+    background-color: red;
+    opacity: 0.3;
+    position: absolute;
+    left: 0px;
+    top:600px;
+}
